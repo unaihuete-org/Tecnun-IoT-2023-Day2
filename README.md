@@ -1,7 +1,7 @@
 # Tecnun-IoT-2023-Day2
 
 ## Challenges
-1. Install Python 3.8 in the rapsberryPi
+
 1. Create App in IOT Central
 2. Define Device Template for Raspberry Pi "simulated" sensors.
 ![image](https://user-images.githubusercontent.com/64772417/219130238-c95c3244-cd64-45e5-9107-8cf460cf5e59.png)
