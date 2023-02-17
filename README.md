@@ -29,3 +29,4 @@
 - Send Telemetry from device to Azure IoT Central https://learn.microsoft.com/en-us/azure/iot-develop/quickstart-send-telemetry-central?pivots=programming-language-python
     - **Check Sample! (only some of the lines will be needed, check steps in challenge description)**: https://github.com/Azure/azure-iot-sdk-python/blob/main/samples/pnp/simple_thermostat.py 
 - Upload file to Azure IoT Hub (also used for Azure IoT Central): https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-python-python-file-upload
+- Command handlers https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-python-python-device-management-get-started#create-a-device-app-with-a-direct-method
